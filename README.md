@@ -1,6 +1,6 @@
-## 🧠 `NeuroFlap` – Flappy Bird AI Trained with NEAT
+## 🧠 `ThinkBird` – Flappy Bird AI Trained with NEAT
 
-Train an AI to play **Flappy Bird** using **NEAT (NeuroEvolution of Augmenting Topologies)** – a genetic algorithm that evolves neural networks without requiring backpropagation. In this project, birds learn to fly *by evolving brains* through generations.
+Train an AI to play **ThinkBird** using **NEAT (NeuroEvolution of Augmenting Topologies)** – a genetic algorithm that evolves neural networks without requiring backpropagation. In this project, birds learn to fly *by evolving brains* through generations.
 
 ---
 
@@ -18,7 +18,7 @@ In short: **NEAT teaches AI how to think**, from scratch, by simulating evolutio
 
 ### 🧠 How NEAT Works in This Project
 
-In `NeuroFlap`:
+In `ThinkBird`:
 
 1. **Initial Population**  
    100+ birds are spawned with random brains (neural networks).
